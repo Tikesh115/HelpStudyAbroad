@@ -182,8 +182,6 @@ Key benefits in this project:
 
 ## 15) Screenshots
 
-> Add screenshots/GIFs to demonstrate the dashboard quickly.
-
 - Login Page
   <img width="1919" height="956" alt="Screenshot 2026-05-06 111157" src="https://github.com/user-attachments/assets/143762fb-cbb1-4146-a021-aecea756a21a" />
 - Dashboard
