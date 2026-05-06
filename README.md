@@ -142,8 +142,8 @@ NEXT_PUBLIC_API_BASE_URL=https://dummyjson.com
 
 DummyJSON provides test credentials you can use to sign in:
 
-- **Username:** `kminchelle`
-- **Password:** `0lelplR`
+- **Username:** `emilys`
+- **Password:** `emilyspass`
 
 (These are public demo credentials from DummyJSON documentation and are intended for testing.)
 
@@ -184,23 +184,18 @@ Key benefits in this project:
 
 > Add screenshots/GIFs to demonstrate the dashboard quickly.
 
-- `screenshots/login.png`
-- `screenshots/dashboard.png`
-- `screenshots/users.png`
-- `screenshots/products.png`
-- `screenshots/product-detail.png`
+- Login Page
+  <img width="1919" height="956" alt="Screenshot 2026-05-06 111157" src="https://github.com/user-attachments/assets/143762fb-cbb1-4146-a021-aecea756a21a" />
+- Dashboard
+  <img width="1919" height="957" alt="Screenshot 2026-05-06 111221" src="https://github.com/user-attachments/assets/41b497b5-9123-41ab-84ad-7d3c1320c656" />
+- User Page
+  <img width="1919" height="957" alt="Screenshot 2026-05-06 111245" src="https://github.com/user-attachments/assets/4012e62e-7524-4aa4-8317-208993c9bfb4" />
+- User Details Page
+  <img width="1893" height="958" alt="Screenshot 2026-05-06 111514" src="https://github.com/user-attachments/assets/8683684c-11f9-4b0b-bb65-321e0f814a30" />
+- Products Page
+  <img width="1898" height="956" alt="Screenshot 2026-05-06 111317" src="https://github.com/user-attachments/assets/c46a1892-bb88-4ece-9a86-6f192f50ed9c" />
 
-```text
-📸 Screenshots will be added here.
-```
-
-## 16) Live Demo
-
-```text
-🔗 Live demo link will be added here.
-```
-
-## 17) Author
+## 16) Author
 
 **Tikesh115**
 
